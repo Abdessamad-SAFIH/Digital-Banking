@@ -9,8 +9,8 @@ Ce projet est une application de **Digital Banking** avec un frontend développ�
   - [Frontend (Angular)](#frontend-angular)
   - [Backend (Spring Boot)](#backend-spring-boot)
 - [Screenshots](#screenshots)
-- [Auteur](#auteur)
 - [Clone](#clone)
+- [Auteur](#auteur)
 
 ## Description du Projet
 
@@ -73,8 +73,6 @@ Voici une capture d'écran de la page de connexion :
 
 
 ## Clone
-
-### Backend (Spring Boot)
 
 1. Clonez le projet :
 ```
