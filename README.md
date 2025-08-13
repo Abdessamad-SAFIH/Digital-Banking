@@ -8,9 +8,9 @@ Ce projet est une application de **Digital Banking** avec un frontend développ�
 - [Structure du Projet](#structure-du-projet)
   - [Frontend (Angular)](#frontend-angular)
   - [Backend (Spring Boot)](#backend-spring-boot)
-- [Clone](#clone)
 - [Screenshots](#screenshots)
-- [Auteurs](#auteurs)
+- [Auteur](#auteur)
+- [Clone](#clone)
 
 ## Description du Projet
 
@@ -71,15 +71,17 @@ Voici une capture d'écran de la page de connexion :
 
 ![Dashboard de operations](images_digitalBanking/operations.png)
 
+
 ## Clone
 
 ### Backend (Spring Boot)
 
 1. Clonez le projet :
-   ```bash
+```
    git clone https://github.com/ton-utilisateur/digital-banking.git
 ```
-## Auteurs
+
+## Auteur
 
 🧠 Author: Abdessamad SAFIH
 
