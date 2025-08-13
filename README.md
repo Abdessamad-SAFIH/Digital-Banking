@@ -76,7 +76,7 @@ Voici une capture d'écran de la page de connexion :
 
 1. Clonez le projet :
 ```
-   git clone https://github.com/ton-utilisateur/digital-banking.git
+   git clone https://github.com/Abdessamad-SAFIH/Digital-Banking.git
 ```
 
 ## Auteur
