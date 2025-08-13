@@ -21,11 +21,11 @@ Le projet Digital Banking permet de gérer les comptes bancaires, les transactio
 La structure du projet est la suivante :
 ```
 digital-banking/
-├── backend/ # Code du backend (Spring Boot)
+├── ebankig-backend/ # Code du backend (Spring Boot)
 │ ├── src/ # Code source Spring Boot
 │ ├── pom.xml # Fichier de configuration Maven
 │ └── ... # Autres fichiers backend
-├── frontend/ # Code du frontend (Angular)
+├── digital-banking-web/ # Code du frontend (Angular)
 │ ├── src/ # Code source Angular
 │ ├── angular.json # Configuration Angular
 │ └── ... # Autres fichiers frontend
@@ -42,13 +42,13 @@ Le frontend est développé avec **Angular** et contient toutes les interfaces u
 - Historique des transactions
 - Ajouter un bénéficiaire
 
-Les fichiers principaux sont situés dans le dossier `frontend/src/`.
+Les fichiers principaux sont situés dans le dossier `digital-banking-web/src/`.
 
 ### Backend (Spring Boot)
 
 Le backend est développé avec **Spring Boot** et expose une API RESTful pour interagir avec le frontend. Il gère la logique métier, la persistance des données (avec une base de données) et la sécurité des transactions.
 
-Les fichiers principaux sont situés dans le dossier `backend/src/`.
+Les fichiers principaux sont situés dans le dossier `ebankig-backend/src/`.
 
 ---
 ## Screenshots
